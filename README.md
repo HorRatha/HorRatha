@@ -21,7 +21,7 @@ I'm a passionate and dedicated IT developer with a strong interest in building c
 
 ### 📫 Connect with Me
 - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- Email: your.email@example.com
+- Email: horratha4t5@gmail.com
 
 ---
 
