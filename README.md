@@ -1,6 +1,6 @@
 <!-- Profile Banner or Motion Image -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRtM2ZlYjR0d3RxYzgzdTRqcTczbnZtcDM0OHp0eWI5ZWQwbjVwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="600" alt="Coding gif" />
+  <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRtM2ZlYjR0d3RxYzgzdTRqcTczbnZtcDM0OHp0eWI5ZWQwbjVwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM291cXFiYmo1NHVtMHg2aXM4eWRobXU4MWszYWR6dWc5YmVhdjl0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OWgDiFQbtizpdLewE5/giphy.gif)" width="600" alt="Coding gif" />
 </p>
 
 
