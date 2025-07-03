@@ -20,7 +20,7 @@ I'm a passionate and dedicated IT developer with a strong interest in building c
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorRatha&layout=compact&theme=radical)
 
 ### 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- Facebook: [Xeinn](https://www.facebook.com/share/1BqNLhpv2V/?mibextid=wwXIfr)
 - Email: horratha4t5@gmail.com
 
 ---
