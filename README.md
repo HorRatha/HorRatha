@@ -85,10 +85,13 @@ I'm a passionate and dedicated IT developer with a strong interest in building c
 ---
 
 ### 🐍 Snake Eating My Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HorRatha/HorRatha/output/github-snake.svg" alt="Snake eating my contributions" />
 </p>
-
+-->
+<!-- Option 4: Rainbow themed snake (colorful) -->
+<!-- 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HorRatha/HorRatha/output/github-snake-rainbow.svg" alt="Snake eating my contributions" />
+</p>
 ---
 
 ### 📫 Connect with Me
