@@ -53,10 +53,24 @@ I'm a passionate and dedicated IT developer with a strong interest in building c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorRatha&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- Streak Stats -->
+<!-- Streak Stats - Multiple backup options -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HorRatha&theme=radical" alt="GitHub Streak" />
+</p>
+
+<!-- Alternative streak stats if the above fails -->
+<!-- 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HorRatha&theme=radical" alt="GitHub Streak" />
 </p>
+-->
+
+<!-- Another alternative -->
+<!--
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HorRatha&theme=radical" alt="GitHub Streak" />
+</p>
+-->
 
 <!-- Activity Graph -->
 <p align="center">
