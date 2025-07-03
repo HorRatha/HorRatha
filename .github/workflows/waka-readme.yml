@@ -1,27 +1,40 @@
-name: Waka Readme
+name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+    - main
+    - master
 
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_OS: "True"
-          SHOW_SHORT_INFO: "True"
-          SHOW_LOC_CHART: "False"
+          github_user_name: HorRatha
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff6b6b&color_dots=#c3f7ff,#ffeaa7,#fd79a8,#fdcb6e,#6c5ce7
+            dist/github-snake-blue.svg?palette=github&color_snake=#0969da&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-snake-purple.svg?palette=github&color_snake=#8b5cf6&color_dots=#ebedf0,#c084fc,#a855f7,#9333ea,#7c3aed
+            dist/github-snake-rainbow.svg?palette=github&color_snake=#ff0000&color_dots=#ebedf0,#ff6b6b,#feca57,#48dbfb,#ff9ff3,#54a0ff
+          
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
