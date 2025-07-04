@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hor%20Ratha&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="Header" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHg5N3pkNm5xcDZjdDJjb3lvNjJyMWFvdXpmd25rY2h6eDg1cWZ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" alt="Header" />
 </p>
 
 <!-- Typing Animation -->
