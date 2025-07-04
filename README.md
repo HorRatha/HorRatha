@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHg5N3pkNm5xcDZjdDJjb3lvNjJyMWFvdXpmd25rY2h6eDg1cWZ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" alt="Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hor%20Ratha&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="Header" />
 </p>
 
 <!-- Typing Animation -->
@@ -12,7 +12,7 @@
 
 <!-- Profile Banner or Motion Image -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM291cXFiYmo1NHVtMHg2aXM4eWRobXU4MWszYWR6dWc5YmVhdjl0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OWgDiFQbtizpdLewE5/giphy.gif" width="600" alt="Coding gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVxbWFtZXFkZmN4bGNxdzZkNHpzb2t0Mm9rcHlxZW02MzQ0d3I0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qzLIm5CbXQWGfCY0x2/giphy.gif" width="600" alt="Coding gif" />
 </p>
 
 ## 👋 Hello! I'm Hor Ratha
