@@ -33,10 +33,6 @@ I'm a passionate and dedicated IT developer with a strong interest in building c
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,spring,nodejs,mysql,postgres,git,html,css,tailwind,vscode,idea" alt="Tech Stack" />
-</p>
 
 **Languages**: Java, JavaScript, TypeScript, HTML, CSS, SQL  
 **Frontend**: React, Next.js, Tailwind CSS  
