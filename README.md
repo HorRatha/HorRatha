@@ -2,19 +2,6 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%3C+SYSTEM+ONLINE+%2F%3E;%E2%96%88%E2%96%88%E2%95%97++%E2%96%88%E2%96%88%E2%95%97%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%95%97+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%95%97++HOR+RATHA" alt="Typing SVG" />
-
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║   ██████╗██╗   ██╗██████╗ ███████╗██████╗ ███████╗███████╗ ██████╗██╗   ██╗██████╗ ██╗████████╗██╗   ██╗                                                                                                                                                                                                                                                             ║
-║  ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝██║   ██║██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝                                                                                                                                                                                                                                                             ║
-║  ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝███████╗█████╗  ██║     ██║   ██║██████╔╝██║   ██║    ╚████╔╝                                                                                                                                                                                                                                                              ║
-║  ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗╚════██║██╔══╝  ██║     ██║   ██║██╔══██╗██║   ██║     ╚██╔╝                                                                                                                                                                                                                                                               ║
-║  ╚██████╗   ██║   ██████╔╝███████╗██║  ██║███████║███████╗╚██████╗╚██████╔╝██║  ██║██║   ██║      ██║                                                                                                                                                                                                                                                                ║
-║   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝                                                                                                                                                                                                                                                                ║
-╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+%26+Spring+Boot+Architect+%E2%9A%A1;React+%26+Next.js+Engineer+%F0%9F%9A%80;Debugging+The+Matrix+%F0%9F%94%A5;Building+The+Future+%F0%9F%8C%90" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -263,25 +250,11 @@ class CyberSecurity:
 
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║  "The best error message is the one that never shows up."        ║
-║                                        - Thomas Fuchs             ║
-║                                                                   ║
-║  > System Status: OPERATIONAL                                     ║
-║  > Code Quality: OPTIMIZED                                        ║
-║  > Coffee Level: ████████░░ 80%                                   ║
-║  > Motivation: █████████████ MAX                                  ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
 ### <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="25" /> `< THANKS FOR VISITING />` <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="25" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
 
-### ⚡ Star some repositories if you find them interesting! ⚡
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
