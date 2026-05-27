@@ -1,33 +1,59 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0f1923&height=220&section=header&text=Hor%20Ratha&fontSize=64&fontColor=e2e8f0&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%A2%20Web%20%26%20API%20Security&descSize=17&descAlignY=68&descColor=94a3b8)
+<svg width="100%" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="180" fill="#0f172a"/>
+  <!-- grid lines -->
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#38bdf8" stroke-width="0.3" opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect width="860" height="180" fill="url(#grid)"/>
+  <!-- corner brackets -->
+  <path d="M20 20 L20 60 M20 20 L60 20" stroke="#38bdf8" stroke-width="1.5" fill="none" opacity="0.35"/>
+  <path d="M840 20 L840 60 M840 20 L800 20" stroke="#38bdf8" stroke-width="1.5" fill="none" opacity="0.35"/>
+  <path d="M20 160 L20 120 M20 160 L60 160" stroke="#38bdf8" stroke-width="1.5" fill="none" opacity="0.35"/>
+  <path d="M840 160 L840 120 M840 160 L800 160" stroke="#38bdf8" stroke-width="1.5" fill="none" opacity="0.35"/>
+  <!-- dots -->
+  <circle cx="100" cy="45" r="2.5" fill="#38bdf8" opacity="0.25"/>
+  <circle cx="200" cy="140" r="2" fill="#818cf8" opacity="0.3"/>
+  <circle cx="720" cy="40" r="2.5" fill="#34d399" opacity="0.25"/>
+  <circle cx="780" cy="140" r="2" fill="#38bdf8" opacity="0.2"/>
+  <!-- name -->
+  <text x="430" y="88" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="48" font-weight="700" fill="#f1f5f9" letter-spacing="-1">Hor <tspan fill="#38bdf8">Ratha</tspan></text>
+  <!-- subtitle -->
+  <text x="430" y="124" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" fill="#64748b" letter-spacing="0.5">Full Stack Developer · Web &amp; API Security · Phnom Penh 🇰🇭</text>
+  <!-- status dot -->
+  <circle cx="340" cy="148" r="4" fill="#34d399"/>
+  <text x="350" y="152" font-family="'Courier New',monospace" font-size="11" fill="#475569">online &amp; building</text>
+</svg>
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+secure%2C+scalable+systems+from+Cambodia+%F0%9F%87%B0%F0%9F%87%AD;React+%C2%B7+Next.js+%C2%B7+Spring+Boot+%C2%B7+Node.js;Studying+OWASP+Top+10+%C2%B7+API+Security+%C2%B7+Pentesting;White+Hat+in+Training+%F0%9F%8E%A9+%E2%80%94+Script+to+Scholar" alt="Typing SVG" />
-</div>
 
-<br/>
+![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0f172a?style=flat-square&logo=springboot&logoColor=6abf69)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=6abf69)
+![OWASP](https://img.shields.io/badge/OWASP-0f172a?style=flat-square&logo=owasp&logoColor=e2e8f0)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=38bdf8)
 
-<div align="center">
-  <a href="https://github.com/HorRatha"><img src="https://img.shields.io/github/followers/HorRatha?style=flat-square&color=38bdf8&labelColor=0f172a&label=GitHub" /></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=HorRatha&style=flat-square&color=818cf8&labelColor=0f172a&label=Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Based_in-Phnom_Penh_🇰🇭-0f172a?style=flat-square&labelColor=0f172a&color=34d399" />
+[![Profile Views](https://komarev.com/ghpvc/?username=HorRatha&style=flat-square&color=818cf8&labelColor=0f172a&label=Profile+Views)](https://github.com/HorRatha)
+[![GitHub followers](https://img.shields.io/github/followers/HorRatha?style=flat-square&color=38bdf8&labelColor=0f172a&label=Followers)](https://github.com/HorRatha?tab=followers)
+
 </div>
 
 ---
 
 ### About
 
-Full Stack Developer based in Phnom Penh, building production-grade web applications and progressively deepening into **web & API security**. My approach: understand the attack surface to write more resilient code.
+Full Stack Developer based in Phnom Penh, building production-grade web applications and deepening into **web & API security**. My approach: understand the attack surface to write more resilient code.
 
-- 🔨 &nbsp;Shipping full-stack products with **React / Next.js + Spring Boot / Node.js**
-- 🔐 &nbsp;Learning **OWASP Top 10**, API pentesting, auth flaws, and secure code review
-- 📡 &nbsp;Experience with real-time systems via **WebSocket** and **REST/OpenAPI**
-- 🎯 &nbsp;Current path: Script Kiddie → Practitioner → White Hat
+- Building full-stack products with **React / Next.js + Spring Boot / Node.js**
+- Studying **OWASP Top 10**, API pentesting, auth flaws, and secure code review
+- Real-time experience with **WebSocket** and **REST / OpenAPI**
+- Path: Script Kiddie → Practitioner → White Hat 🎩
 
 ---
 
@@ -36,8 +62,8 @@ Full Stack Developer based in Phnom Penh, building production-grade web applicat
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=f97316)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=facc15)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=38bdf8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=facc15)
 ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=f97316)
 ![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=38bdf8)
 ![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=mysql&logoColor=38bdf8)
@@ -45,14 +71,14 @@ Full Stack Developer based in Phnom Penh, building production-grade web applicat
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
 
 **Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0f172a?style=flat-square&logo=springboot&logoColor=6abf69)
 ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=6abf69)
-![WebSocket](https://img.shields.io/badge/WebSocket-0f172a?style=flat-square&logo=socketdotio&logoColor=ffffff)
+![WebSocket](https://img.shields.io/badge/WebSocket-0f172a?style=flat-square&logo=socketdotio&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-0f172a?style=flat-square&logo=swagger&logoColor=85ea2d)
 
 **Databases**
@@ -61,25 +87,28 @@ Full Stack Developer based in Phnom Penh, building production-grade web applicat
 ![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4f9edb)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0f172a?style=flat-square&logo=elasticsearch&logoColor=f5bc42)
 
-**Security & DevOps**
+**Security & Tools**
 
-![OWASP](https://img.shields.io/badge/OWASP-0f172a?style=flat-square&logo=owasp&logoColor=e2e8f0)
+![OWASP](https://img.shields.io/badge/OWASP-0f172a?style=flat-square&logo=owasp&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0f172a?style=flat-square&logo=burpsuite&logoColor=f97316)
 ![Linux](https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=facc15)
 ![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=38bdf8)
 ![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=f97316)
 ![Postman](https://img.shields.io/badge/Postman-0f172a?style=flat-square&logo=postman&logoColor=f97316)
+![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=flat-square&logo=visualstudiocode&logoColor=007acc)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-0f172a?style=flat-square&logo=intellijidea&logoColor=white)
 
 ---
 
 ### Security Focus
 
 ```
-OWASP Top 10          ████████████░░  Learning
-API Security          ████████░░░░░░  In Progress  
-Auth Flaws (JWT/OAuth)████████░░░░░░  In Progress
-Burp Suite            ██████░░░░░░░░  Practicing
-Secure Code Review    ██████████░░░░  Applying
+                    Offensive                         Defensive
+──────────────────────────────────────────────────────────────────
+OWASP Top 10        ████████████░░  learning    JWT / OAuth2        ████████████░░  applying
+API pentesting      ████████░░░░░░  in progress Secure code review  ██████████░░░░  applying
+Burp Suite          ██████░░░░░░░░  practicing  API auth hardening  ██████████░░░░  applying
+Recon & enum        ██████░░░░░░░░  practicing  Input validation    ████████████░░  applying
 ```
 
 > *"Break it to understand it. Understand it to build it right."*
@@ -90,7 +119,7 @@ Secure Code Review    ██████████░░░░  Applying
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HorRatha&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&ring_color=38bdf8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=HorRatha&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorRatha&layout=compact&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" width="49%" />
 
 <br/>
@@ -101,14 +130,6 @@ Secure Code Review    ██████████░░░░  Applying
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HorRatha&bg_color=0f172a&color=94a3b8&line=38bdf8&point=818cf8&title_color=38bdf8&area_color=38bdf820&area=true&hide_border=true&custom_title=Contribution+Activity" width="100%" />
 
-</div>
-
----
-
-### Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HorRatha/HorRatha/output/github-snake-rainbow.svg" alt="contribution snake" />
 </div>
 
 ---
@@ -130,8 +151,21 @@ Secure Code Review    ██████████░░░░  Applying
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=e2e8f0)](https://github.com/HorRatha)
 
-</div>
-
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f1923,50:1a1a3e,100:0f0f23&height=100&section=footer)
+<sub><code>while(alive) { learn(); build(); secure(); }</code></sub>
+
+</div>
+
+<div align="center">
+<svg width="100%" viewBox="0 0 860 40" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="40" fill="#0f172a"/>
+  <defs>
+    <pattern id="grid2" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#38bdf8" stroke-width="0.3" opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="860" height="40" fill="url(#grid2)"/>
+  <line x1="0" y1="0" x2="860" y2="0" stroke="#1e293b" stroke-width="1"/>
+</svg>
+</div>
