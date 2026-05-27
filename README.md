@@ -1,171 +1,253 @@
 <div align="center">
 
-<svg width="100%" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
-  <rect width="860" height="180" fill="#0f172a"/>
-  <!-- grid lines -->
-  <defs>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#38bdf8" stroke-width="0.3" opacity="0.12"/>
-    </pattern>
-  </defs>
-  <rect width="860" height="180" fill="url(#grid)"/>
-  <!-- corner brackets -->
-  <path d="M20 20 L20 60 M20 20 L60 20" stroke="#38bdf8" stroke-width="1.5" fill="none" opacity="0.35"/>
-  <path d="M840 20 L840 60 M840 20 L800 20" stroke="#38bdf8" stroke-width="1.5" fill="none" opacity="0.35"/>
-  <path d="M20 160 L20 120 M20 160 L60 160" stroke="#38bdf8" stroke-width="1.5" fill="none" opacity="0.35"/>
-  <path d="M840 160 L840 120 M840 160 L800 160" stroke="#38bdf8" stroke-width="1.5" fill="none" opacity="0.35"/>
-  <!-- dots -->
-  <circle cx="100" cy="45" r="2.5" fill="#38bdf8" opacity="0.25"/>
-  <circle cx="200" cy="140" r="2" fill="#818cf8" opacity="0.3"/>
-  <circle cx="720" cy="40" r="2.5" fill="#34d399" opacity="0.25"/>
-  <circle cx="780" cy="140" r="2" fill="#38bdf8" opacity="0.2"/>
-  <!-- name -->
-  <text x="430" y="88" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="48" font-weight="700" fill="#f1f5f9" letter-spacing="-1">Hor <tspan fill="#38bdf8">Ratha</tspan></text>
-  <!-- subtitle -->
-  <text x="430" y="124" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" fill="#64748b" letter-spacing="0.5">Full Stack Developer · Web &amp; API Security · Phnom Penh 🇰🇭</text>
-  <!-- status dot -->
-  <circle cx="340" cy="148" r="4" fill="#34d399"/>
-  <text x="350" y="152" font-family="'Courier New',monospace" font-size="11" fill="#475569">online &amp; building</text>
-</svg>
+![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ptazdhOXJpNzBkMXFvaG01YWtpZnBlcjNjaGN5OTBsbDFyMm03OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DX1cytoIQvnmgqBlQ3/giphy.gif)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%26+Next.js+Engineer+%F0%9F%9A%80;Debugging+The+Matrix+%F0%9F%94%A5;Building+The+Future+%F0%9F%8C%90" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+![Profile Views](https://komarev.com/ghpvc/?username=HorRatha&label=NEURAL+CONNECTIONS&color=blueviolet&style=for-the-badge)
 
 </div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> SYSTEM.INIT() → LOADING PROFILE...
+
+```python
+class CyberSecurity:
+    def __init__(self):
+        self.name = "Hor Ratha"
+        self.role = "Full Stack Developer"
+        self.location = "Phnom Penh, Cambodia 🇰🇭"
+        self.neural_networks = {
+            "frontend": ["React", "Next.js", "Tailwind CSS"],
+            "backend": ["Spring Boot", "Node.js"],
+            "databases": ["MySQL", "PostgreSQL", "Elasticsearch"],
+            "real_time": ["WebSocket"],
+            "api_docs": ["Swagger/OpenAPI"],
+            "languages": ["Java", "JavaScript", "TypeScript", "SQL"],
+            "devops": ["Docker", "Git", "Postman"]
+        }
+        self.current_mission = "Building scalable digital ecosystems"
+        self.status = "Online & Coding 🟢"
+    
+    def deploy_future(self):
+        return "while(alive) { code(); learn(); repeat(); }"
+```
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> TECH.ARSENAL() → WEAPONS OF CHOICE
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0f172a?style=flat-square&logo=springboot&logoColor=6abf69)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=6abf69)
-![OWASP](https://img.shields.io/badge/OWASP-0f172a?style=flat-square&logo=owasp&logoColor=e2e8f0)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=38bdf8)
+### 💾 CORE SYSTEMS
 
-[![Profile Views](https://komarev.com/ghpvc/?username=HorRatha&style=flat-square&color=818cf8&labelColor=0f172a&label=Profile+Views)](https://github.com/HorRatha)
-[![GitHub followers](https://img.shields.io/github/followers/HorRatha?style=flat-square&color=38bdf8&labelColor=0f172a&label=Followers)](https://github.com/HorRatha?tab=followers)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+      <br>SQL
+    </td>
+  </tr>
+</table>
+
+### 🎨 FRONTEND MATRIX
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+  </tr>
+</table>
+
+### ⚙️ BACKEND ENGINE
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
+</table>
+
+### 🗄️ DATA VAULT
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" />
+      <br>Elasticsearch
+    </td>
+  </tr>
+</table>
+
+### 🔌 API & REAL-TIME
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" width="48" height="48" alt="Kafka" />
+      <br>WebSocket
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="48" height="48" alt="Swagger" />
+      <br>Swagger
+    </td>
+  </tr>
+</table>
+
+### 🛠️ CYBER TOOLS
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+      <br>IntelliJ
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-### About
-
-Full Stack Developer based in Phnom Penh, building production-grade web applications and deepening into **web & API security**. My approach: understand the attack surface to write more resilient code.
-
-- Building full-stack products with **React / Next.js + Spring Boot / Node.js**
-- Studying **OWASP Top 10**, API pentesting, auth flaws, and secure code review
-- Real-time experience with **WebSocket** and **REST / OpenAPI**
-- Path: Script Kiddie → Practitioner → White Hat 🎩
-
----
-
-### Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=f97316)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=38bdf8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=facc15)
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=f97316)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=38bdf8)
-![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=mysql&logoColor=38bdf8)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0f172a?style=flat-square&logo=springboot&logoColor=6abf69)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=6abf69)
-![WebSocket](https://img.shields.io/badge/WebSocket-0f172a?style=flat-square&logo=socketdotio&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-0f172a?style=flat-square&logo=swagger&logoColor=85ea2d)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=4f9edb)
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4f9edb)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0f172a?style=flat-square&logo=elasticsearch&logoColor=f5bc42)
-
-**Security & Tools**
-
-![OWASP](https://img.shields.io/badge/OWASP-0f172a?style=flat-square&logo=owasp&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0f172a?style=flat-square&logo=burpsuite&logoColor=f97316)
-![Linux](https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=facc15)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=38bdf8)
-![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=f97316)
-![Postman](https://img.shields.io/badge/Postman-0f172a?style=flat-square&logo=postman&logoColor=f97316)
-![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=flat-square&logo=visualstudiocode&logoColor=007acc)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-0f172a?style=flat-square&logo=intellijidea&logoColor=white)
-
----
-
-### Security Focus
-
-```
-                    Offensive                         Defensive
-──────────────────────────────────────────────────────────────────
-OWASP Top 10        ████████████░░  learning    JWT / OAuth2        ████████████░░  applying
-API pentesting      ████████░░░░░░  in progress Secure code review  ██████████░░░░  applying
-Burp Suite          ██████░░░░░░░░  practicing  API auth hardening  ██████████░░░░  applying
-Recon & enum        ██████░░░░░░░░  practicing  Input validation    ████████████░░  applying
-```
-
-> *"Break it to understand it. Understand it to build it right."*
-
----
-
-### GitHub Stats
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> STATS.ANALYZE() → PERFORMANCE METRICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HorRatha&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorRatha&layout=compact&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=HorRatha&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=FF00FF&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorRatha&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" width="48%" />
 
-<br/>
+<img src="https://streak-stats.demolab.com/?user=HorRatha&theme=synthwave&hide_border=true&background=0D1117&ring=00F7F7&fire=FF00FF&currStreakLabel=00F7F7" width="48%" />
 
-<img src="https://streak-stats.demolab.com/?user=HorRatha&theme=github-dark-blue&hide_border=true&background=0f172a&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&sideLabels=94a3b8" width="60%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HorRatha&custom_title=NEURAL+ACTIVITY+GRAPH&bg_color=0D1117&color=00F7F7&line=FF00FF&point=00F7F7&area_color=FF00FF&title_color=00F7F7&area=true&hide_border=true" width="100%" />
 
-<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HorRatha&bg_color=0f172a&color=94a3b8&line=38bdf8&point=818cf8&title_color=38bdf8&area_color=38bdf820&area=true&hide_border=true&custom_title=Contribution+Activity" width="100%" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> CONTRIBUTION.SNAKE() → FEEDING THE GRID
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HorRatha/HorRatha/output/github-snake-rainbow.svg" alt="Snake animation" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-### ⏱️ WakaTime
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d7e193-bff0-43a5-9186-136f9a5def68.png" width="30" /> WISDOM.PROTOCOL() → CYBER QUOTES
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Random Dev Quote" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> CONNECT.NETWORK() → ESTABLISH LINK
+
+<div align="center">
+
+<a href="https://www.facebook.com/share/1BqNLhpv2V/?mibextid=wwXIfr">
+  <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" alt="Facebook" />
+</a>
+<a href="mailto:horratha4t5@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" />
+</a>
+<a href="https://github.com/HorRatha">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+</a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## ⏱️ WAKATIME.STATS() → WEEKLY BREAKDOWN
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
----
-
-### Connect
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-0f172a?style=for-the-badge&logo=facebook&logoColor=4f9edb)](https://www.facebook.com/share/1BqNLhpv2V/?mibextid=wwXIfr)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=f87171)](mailto:horratha4t5@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=e2e8f0)](https://github.com/HorRatha)
+### <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="25" /> `< THANKS FOR VISITING />` <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="25" />
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
 
-<sub><code>while(alive) { learn(); build(); secure(); }</code></sub>
 
-</div>
 
-<div align="center">
-<svg width="100%" viewBox="0 0 860 40" xmlns="http://www.w3.org/2000/svg">
-  <rect width="860" height="40" fill="#0f172a"/>
-  <defs>
-    <pattern id="grid2" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#38bdf8" stroke-width="0.3" opacity="0.08"/>
-    </pattern>
-  </defs>
-  <rect width="860" height="40" fill="url(#grid2)"/>
-  <line x1="0" y1="0" x2="860" y2="0" stroke="#1e293b" stroke-width="1"/>
-</svg>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer&text=SYSTEM+SHUTTING+DOWN...&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70)
+
 </div>
