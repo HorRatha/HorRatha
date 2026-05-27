@@ -1,6 +1,6 @@
 <div align="center">
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ptazdhOXJpNzBkMXFvaG01YWtpZnBlcjNjaGN5OTBsbDFyMm03OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DX1cytoIQvnmgqBlQ3/giphy.gif)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%26+Next.js+Engineer+%F0%9F%9A%80;Debugging+The+Matrix+%F0%9F%94%A5;Building+The+Future+%F0%9F%8C%90" alt="Typing SVG" />
 
