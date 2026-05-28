@@ -1,6 +1,7 @@
 <div align="center">
 
-![MasterHead]([https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ptazdhOXJpNzBkMXFvaG01YWtpZnBlcjNjaGN5OTBsbDFyMm03OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DX1cytoIQvnmgqBlQ3/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRoNHRlOG1jMnlvM25remR2Y3BoZWticGJhM2N6ZjFrazAzbXlxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVcJHkmgPwpQZ3sRtL/giphy.gif))
+    
+![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRoNHRlOG1jMnlvM25remR2Y3BoZWticGJhM2N6ZjFrazAzbXlxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVcJHkmgPwpQZ3sRtL/giphy.gif)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%26+Next.js+Engineer+%F0%9F%9A%80;Debugging+The+Matrix+%F0%9F%94%A5;Building+The+Future+%F0%9F%8C%90" alt="Typing SVG" />
 
